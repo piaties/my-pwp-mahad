@@ -1,0 +1,2 @@
+testing the git pull
+and directory settings
