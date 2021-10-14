@@ -1,0 +1,56 @@
+div {font-family: Arial, Helvetica, sans-serif;
+    text-indent: 1em;
+    text-align: justify;
+    letter-spacing: 2px;
+    padding: 8px;
+    color: saddlebrown;}
+
+table, th, td {
+    border: 0 solid black;
+    width: auto;
+    text-align: left;
+}
+
+
+
+img {
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.centerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: saddlebrown;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 1em;
+    text-align: justify;
+    letter-spacing: 2px;
+    position: absolute;
+    color: saddlebrown;
+
+}
+
+a {
+    text-decoration: none;
+    color: saddlebrown;
+}
+
+
+p.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {color: saddlebrown}
